@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Dust on My Boots Tonight
+
+This log tracks the cryptographic history and versioning for the song **Dust on My Boots Tonight** (dust-on-my-boots-tonight).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-23T05:43:22.155192 | `v1` | `d5eac56c029cc16d3f4e41581fc6fb77e85096eb4aa33d2da579ebdc967c1273` | `c891be7cd64fb1c364ba5cccaa01ff8c1e526136b2ce1b70e8e00662290899bd` | `2026-05-23_dust-on-my-boots-tonight-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*

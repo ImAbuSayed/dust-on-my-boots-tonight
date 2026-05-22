@@ -15,7 +15,7 @@
 | **Written On** | May 19, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/dust-on-my-boots-tonight/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Music Rights & Licensing for Dust on My Boots Tonight](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/dust-on-my-boots-tonight/) |
+| **Get License** | [Get License For Dust on My Boots Tonight](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/dust-on-my-boots-tonight/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `d5eac56c029cc16d3f4e41581fc6fb77e85096eb4aa33d2da579ebdc967c1273` |
 | **Timestamp** | May 23, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
