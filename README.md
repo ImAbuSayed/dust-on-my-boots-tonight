@@ -15,7 +15,7 @@
 | **Written On** | May 19, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/dust-on-my-boots-tonight/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Secure Licensing Rights for Dust on My Boots Tonight](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/dust-on-my-boots-tonight/) |
+| **Get License** | [Music Rights & Licensing for Dust on My Boots Tonight](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/dust-on-my-boots-tonight/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Got a little dust on my boots tonight
+> But my hands are warm and the feeling's right
+> Pour a little whiskey, dim the glow
+> Let the rest of the world just fade so slow
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
